@@ -21,7 +21,7 @@
 - Playing CTF's at spare time
 - Currently learning Web Development by Self
 - Personal website [link](https://www.neddy.choqueflores.org)
-- I’m currently open for an Intern or a new job opportunity, this is [my resume](https://read.cv/0xabdulkhalid)
+- I’m currently open for an Intern or a new job opportunity, this is [my resume](https://neddy.choqueflores.org/portafolio/)
 
 <br><br>
 
