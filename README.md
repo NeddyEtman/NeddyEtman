@@ -17,6 +17,7 @@
 
 <br>
 
+- Web 3 Developer
 - A passionate Self-taught Front-end developer
 - Playing CTF's at spare time
 - Currently learning Web Development by Self
